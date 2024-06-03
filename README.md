@@ -46,6 +46,7 @@ Website được phát triển bằng Spring Boot và Angular.
 - Java Development Kit (JDK) 8+
 - Node.js và npm
 - Angular CLI
+-  Visual Studio Code (hoặc IDE khác hỗ trợ Angular)
 - MySQL Workbench
 - IntelliJ IDEA (hoặc IDE khác hỗ trợ Spring Boot)
 
