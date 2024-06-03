@@ -2,7 +2,6 @@
 
 # Phần 1 BackEnd - SpringBoot
 
-
 ## Website tìm kiếm nhà trọ
 | Tác giả        | MSV       | Email                         |
 |----------------|------------|-------------------------------|
