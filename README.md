@@ -93,7 +93,8 @@ Website được phát triển bằng Spring Boot và Angular.
 
 4. **Khởi động ứng dụng**
 
-    -  Bật trình duyệt, gõ 'http://localhost:8080' để vào trang dành cho người dùng hoặc 'http://localhost:8080/admin' để vào trang quản lý.
+    -  Bật trình duyệt, gõ `http://localhost:8080` để vào trang dành cho người dùng hoặc `http://localhost:8080/admin` để vào trang quản lý.
+ 
 
 
 
