@@ -1,4 +1,4 @@
-# PROJECT cá nhân "PhongTroPTIT" phát triển bằng SpringBoot + Angular
+# PROJECT cá nhân "PhongTroPTIT" phát triển bằng SpringBoot + Angular - 01/11/2023
 
 # Phần 1 BackEnd - SpringBoot
 
